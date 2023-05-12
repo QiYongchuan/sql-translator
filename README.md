@@ -22,6 +22,7 @@
     cd sql-translator
     npm install
     ```
+    
 3.  接着输命令
 
     ```bash
@@ -31,12 +32,12 @@
 4.把你的OPENAI 的API key 放到 .env 文件中, 如果没有api的key就点这里获取一个 [here](https://beta.openai.com/account/api-keys):
      
      建议可以将这个文件夹在vscode中打开，方便填写。
-     ![image](https://github.com/QiYongchuan/sql-translator/assets/105039020/43ab7944-d054-42c4-8fb7-db41fd096847)
-
-     ![image](https://github.com/QiYongchuan/sql-translator/assets/105039020/7534cd3f-582b-40ca-8525-c883a8fb697e)
+![image](https://github.com/QiYongchuan/sql-translator/assets/105039020/43ab7944-d054-42c4-8fb7-db41fd096847)
+![image](https://github.com/QiYongchuan/sql-translator/assets/105039020/7534cd3f-582b-40ca-8525-c883a8fb697e)
      
 5. 启动本地服务器:在命令行里输入下面的命令
-    ```bash
+
+    ```
     npm start
     ```
     
